@@ -15,13 +15,9 @@ tags:
 
 ![TCI-Snapcraft](https://user-images.githubusercontent.com/20936398/154757930-372583c3-eb7b-4ee6-9edc-fec0b6b0731e.png)
 
-
-
 Sometimes you want to see how things work under the hood, and this is why I put together quickly how I used Snapcraft with Travis CI to get a LXD up and running, and download VLC and then get info on that version of VLC all inside Travis CI. 
 
-
 <!-- more --> 
-
 
 ## Getting started 
 
